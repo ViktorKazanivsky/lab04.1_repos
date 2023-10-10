@@ -1,0 +1,2 @@
+﻿  Lab_04_1.cpp
+C:\Users\Kazanivsky\source\repos\Lab4.1\Lab4.1\Lab_04_1.cpp(12): error C4700: uninitialized local variable 'N' used
